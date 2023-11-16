@@ -9,7 +9,7 @@
 
 <h2>:page_facing_up: Certifications</h2>
 
- - [CompTIA Security+ce ](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [CompTIA Security+ce ](https://github.com/Jdajuste/Sec-.git)
 
 <h2> 🤳 Connect with me:</h2>
 
