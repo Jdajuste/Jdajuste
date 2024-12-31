@@ -28,7 +28,9 @@ Maintain and implement security SOPs for consistent operation
 ## 🎓 Education
 
 MS, Information Technology - Kennesaw State University (Expected May 2026)
+
 MS, Cybersecurity - Kennesaw State University (2023)
+
 BS, Exercise Science - Kennesaw State University (2020)
 
 ## 🔭 Featured Projects
