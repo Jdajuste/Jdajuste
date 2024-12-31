@@ -28,6 +28,7 @@ Maintain and implement security SOPs for consistent operation
 ## 🎓 Education
 
 MS, Information Technology - Kennesaw State University (Expected May 2026)
+MS, Cybersecurity - Kennesaw State University (2023)
 BS, Exercise Science - Kennesaw State University (2020)
 
 ## 🔭 Featured Projects
@@ -47,7 +48,7 @@ Automated reporting
 
 
 📈 GitHub Stats
-Show Image
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 
 ## 🎯 Current Focus
 
@@ -75,7 +76,7 @@ Email: jdajuste45@gmail.com
 CompTIA Security+ CE
 
 ## 🎮 Beyond Tech
-When I'm not immersed in technology and security, you can find me:
+In my off time you can find me:
 
 Playing basketball
 
@@ -87,4 +88,5 @@ Reading about the latest tech trends
 
 Enjoying comedy
 
+💡 "Security is not a product, but a process" - Bruce Schneier
 
