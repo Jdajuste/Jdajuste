@@ -48,7 +48,7 @@ Automated reporting
 
 
 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Jdajuste=YOUR_Jdajuste&show_icons=true&theme=dark)
 
 ## 🎯 Current Focus
 
