@@ -6,8 +6,11 @@ I'm a security professional and aspiring technologist, currently pursuing my MS 
 ## 🛠️ Technical Skills
 
 Security Tools: SIEM, Access Control Systems, Incident Management Systems
+
 Operating Systems: Windows, Mac
+
 Professional Tools: Microsoft Office Suite
+
 Core Competencies: Risk Management, Incident Response, Security Operations
 
 ## 💼 Professional Experience
@@ -15,8 +18,11 @@ Global Security Operations Center (GSOC) Operator
 The Home Depot | February 2024 - Present
 
 Operate advanced security systems and technologies to protect enterprise assets
+
 Perform real-time analysis of security alerts and CCTV footage
+
 Coordinate with law enforcement and internal teams for incident response
+
 Maintain and implement security SOPs for consistent operation
 
 ## 🎓 Education
@@ -45,14 +51,24 @@ Show Image
 
 ## 🎯 Current Focus
 
+Studying for CompTIA Network+ certification
+
+ 1. Learning network architecture and design
+ 2. Mastering network protocols and standards
+ 3. Practicing network troubleshooting
+ 4. Exploring network security concepts
+
 Advancing my knowledge in Information Technology through my MS program
+
 Developing practical security monitoring and incident response tools
+
 Building a strong foundation in cybersecurity best practices
 
 ## 📫 Let's Connect!
 
-LinkedIn
-Email: your.email@example.com
+LinkedIn: https://www.linkedin.com/in/jon-dajuste/
+
+Email: jdajuste45@gmail.com
 
 ## 🏆 Certifications
 
@@ -62,9 +78,13 @@ CompTIA Security+ CE
 When I'm not immersed in technology and security, you can find me:
 
 Playing basketball
+
 Weightlifting
+
 Gaming
+
 Reading about the latest tech trends
+
 Enjoying comedy
 
 
